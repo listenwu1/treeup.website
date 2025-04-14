@@ -18,6 +18,8 @@ body{
 .top{
 	overflow: hidden;
 	background-image: url("pic/1.jpg");
+	background-size: cover;
+background-position: center;
 	height: 650px;
 	width: 100%;
 }
